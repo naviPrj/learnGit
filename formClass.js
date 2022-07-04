@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    //alert('ok');
+   alert('ok');
 
     $(document).on("submit", ".ajaxform", function(event) { //~ alert('inside function');
         //~ return false;
